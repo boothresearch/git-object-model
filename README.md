@@ -17,6 +17,6 @@
         ```
  - Create a new file called "first.md", commit it, and try listing the content of .git/objects.
  - Use `git cat-file` to read each object. Add another file, commit it, and repeat.
- - Check out the contents of `.git/refs`.
- - Explore and ask questions!
+ - Explore the contents of `.git/refs`.
+ - Explore the `.git/config` file, which is the only file within `.git` that I actually edit by hand sometimes.
  
